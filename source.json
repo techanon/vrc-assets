@@ -1,7 +1,7 @@
 {
     "name":"ArchiTech Assets",
-    "id":"dev.techanon.assets",
-    "url":"https://techanon.github.io/vrc-assets/index.json",
+    "id":"dev.techanon.listing",
+    "url":"https://vpm.techanon.dev/vrc-assets/index.json",
     "author":{
         "email":"archi@techanon.dev",
         "name":"ArchiTechAnon",
