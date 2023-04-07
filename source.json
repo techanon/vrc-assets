@@ -1,27 +1,35 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"ArchiTech Assets,
+    "id":"dev.techanon.assets",
+    "url":"https://techanon.github.io/vrc-assets/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"archi@techanon.dev",
+        "name":"ArchiTechAnon",
+        "url":"http://gitlab.com/techanon"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Listing for all publicly distributed assets by ArchiTechAnon.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"http://github.com/techanon/vrc-assets",
+        "text":"View on Github"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
+    "bannerUrl":"",
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"dev.architech.sdk",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://gitlab.com/techanon/architech-sdk/-/archive/v0.4.3/architech-sdk-v0.4.3.zip",
+                "https://gitlab.com/techanon/architech-sdk/-/archive/v0.4.2/architech-sdk-v0.4.2.zip",
+                "https://gitlab.com/techanon/architech-sdk/-/archive/v0.4.1/architech-sdk-v0.4.1.zip",
+                "https://gitlab.com/techanon/architech-sdk/-/archive/v0.4.0/architech-sdk-v0.4.0.zip",
+                "https://gitlab.com/techanon/architech-sdk/-/archive/v0.3.0/architech-sdk-v0.3.0.zip"
+            ]
+        },
+        {
+            "name":"dev.architech.protv",
+            "releases":[
+                "https://gitlab.com/techanon/protv/-/archive/v3.0.0-alpha.5/protv-v3.0.0-alpha.5.zip",
+                "https://gitlab.com/techanon/protv/-/archive/v3.0.0-alpha.4/protv-v3.0.0-alpha.4.zip",
+                "https://gitlab.com/techanon/protv/-/archive/v3.0.0-alpha.3/protv-v3.0.0-alpha.3.zip"
             ]
         }
     ]
