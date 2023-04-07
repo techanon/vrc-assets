@@ -3,14 +3,14 @@
     "id":"dev.techanon.listing",
     "url":"https://vpm.techanon.dev/vrc-assets/index.json",
     "author":{
-        "email":"archi@techanon.dev",
+        "email":"Need help? Click to join my discord server.",
         "name":"ArchiTechAnon",
-        "url":"http://gitlab.com/techanon"
+        "url":"https://discord.gg/w8ddMqjfJ2"
     },
     "description":"Listing for all publicly distributed assets by ArchiTechAnon.",
     "infoLink":{
-        "url":"http://github.com/techanon/vrc-assets",
-        "text":"View on Github"
+        "url":"http://gitlab.com/techanon",
+        "text":"Go to Repositories"
     },
     "bannerUrl":"",
     "packages":[
