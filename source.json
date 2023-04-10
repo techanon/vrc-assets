@@ -17,13 +17,13 @@
         {
             "name":"dev.architech.sdk",
             "releases":[
-                "https://gitlab.com/api/v4/projects/39463625/packages/generic/dev.architech.sdk/v0.4.4+public/ProTV_v0.4.4+public.zip"
+                "https://gitlab.com/techanon/architech-sdk/uploads/0d416aae8b2086f9fbcf9fea80a91d59/ProTV_v0.4.4+public.zip"
             ]
         },
         {
             "name":"dev.architech.protv",
             "releases":[
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/dev.architech.protv/v3.0.0-alpha.6+public/ProTV_v3.0.0-alpha.6+public.zip"
+                "https://gitlab.com/techanon/protv/uploads/3320985be8310cf5cd06092e18279b95/ProTV_v3.0.0-alpha.6+public.zip"
             ]
         }
     ]
