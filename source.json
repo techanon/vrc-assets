@@ -23,7 +23,7 @@
         {
             "name":"dev.architech.protv",
             "releases":[
-                "https://gitlab.com/techanon/protv/uploads/3320985be8310cf5cd06092e18279b95/ProTV_v3.0.0-alpha.6+public.zip"
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.6/downloads/package"
             ]
         }
     ]
