@@ -24,7 +24,7 @@ env:
 jobs:
   
   build-listing:
-    name: build-listing
+    name: VPM Listing Deployment
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
