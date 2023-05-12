@@ -1,22 +1,22 @@
 {
-    "name":"ArchiTech Assets",
-    "id":"dev.architech.listing",
-    "url":"https://vpm.techanon.dev/index.json",
-    "author":{
-        "email":"Need help? Click to join my discord server.",
-        "name":"ArchiTechAnon",
-        "url":"https://discord.gg/w8ddMqjfJ2"
+    "name": "ArchiTech Assets",
+    "id": "dev.architech.listing",
+    "url": "https://vpm.techanon.dev/index.json",
+    "author": {
+        "email": "Need help? Click to join my discord server.",
+        "name": "ArchiTechAnon",
+        "url": "https://discord.gg/w8ddMqjfJ2"
     },
-    "description":"Listing for all publicly distributed assets by ArchiTechAnon.",
-    "infoLink":{
-        "url":"http://gitlab.com/techanon",
-        "text":"Go to Repositories"
+    "description": "Listing for all publicly distributed assets by ArchiTechAnon.",
+    "infoLink": {
+        "url": "http://gitlab.com/techanon",
+        "text": "Go to Repositories"
     },
-    "bannerUrl":"",
-    "packages":[
+    "bannerUrl": "",
+    "packages": [
         {
-            "name":"dev.architech.sdk",
-            "releases":[
+            "name": "dev.architech.sdk",
+            "releases": [
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.4.7/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.4.6/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.4.5/downloads/package",
@@ -24,10 +24,16 @@
             ]
         },
         {
-            "name":"dev.architech.protv",
+            "name": "dev.architech.protv",
             "releases":[
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.7/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.6/downloads/package"
+            ]
+        },
+        {
+            "name": "dev.architech.commons",
+            "releases": [
+                "https://gitlab.com/techanon/architech-commons/-/releases/v0.2.0/downloads/package"
             ]
         }
     ]
