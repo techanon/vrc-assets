@@ -28,6 +28,7 @@
         {
             "name": "dev.architech.protv",
             "releases":[
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.9/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.8/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.7/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.6/downloads/package"
