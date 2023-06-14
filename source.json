@@ -44,12 +44,9 @@
             ]
         },
         {
-            "name": "dev.architech.commons",
+            "name": "dev.architech.umbrella",
             "releases": [
-                "https://gitlab.com/techanon/architech-commons/-/releases/v0.2.3/downloads/package",
-                "https://gitlab.com/techanon/architech-commons/-/releases/v0.2.2/downloads/package",
-                "https://gitlab.com/techanon/architech-commons/-/releases/v0.2.1/downloads/package",
-                "https://gitlab.com/techanon/architech-commons/-/releases/v0.2.0/downloads/package"
+                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.3.0/downloads/package"
             ]
         }
     ]
