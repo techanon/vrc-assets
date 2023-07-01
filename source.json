@@ -55,6 +55,7 @@
         {
             "name": "dev.architech.umbrella",
             "releases": [
+                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.3.1/downloads/package",
                 "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.3.0/downloads/package"
             ]
         }
