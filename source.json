@@ -17,6 +17,7 @@
         {
             "name": "dev.architech.sdk",
             "releases": [
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.7.5/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.7.4/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.7.3/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.7.2/downloads/package",
