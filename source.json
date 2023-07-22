@@ -17,6 +17,7 @@
         {
             "name": "dev.architech.sdk",
             "releases": [
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.8.0/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.7.9/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.7.8/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.7.7/downloads/package",
@@ -64,6 +65,7 @@
         {
             "name": "dev.architech.umbrella",
             "releases": [
+                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.4.0/downloads/package",
                 "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.3.2/downloads/package",
                 "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.3.1/downloads/package",
                 "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.3.0/downloads/package"
