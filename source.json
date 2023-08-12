@@ -3,11 +3,11 @@
     "id": "dev.architech.listing",
     "url": "https://vpm.techanon.dev/index.json",
     "author": {
-        "email": "Need help? Click to join my discord server.",
-        "name": "ArchiTechAnon",
+        "email": "Need help? Click to join the discord server.",
+        "name": "The ArchiTech Group",
         "url": "https://discord.gg/w8ddMqjfJ2"
     },
-    "description": "Listing for all publicly distributed assets by ArchiTechAnon.",
+    "description": "Listing for all publicly distributed assets by The ArchiTech Group.",
     "infoLink": {
         "url": "http://gitlab.com/techanon",
         "text": "Go to Repositories"
@@ -17,6 +17,7 @@
         {
             "name": "dev.architech.sdk",
             "releases": [
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.9.1/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.9.0/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.8.1/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.8.0/downloads/package",
@@ -43,6 +44,7 @@
         {
             "name": "dev.architech.protv",
             "releases":[
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.28/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.27/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.26/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.25.1/downloads/package",
