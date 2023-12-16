@@ -73,7 +73,7 @@
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.10.1/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.10.0/downloads/package"
             ]
-        }
+        },
         {
             "name": "dev.architech.videoplayershim",
             "releases": [
