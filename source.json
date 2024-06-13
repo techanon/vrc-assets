@@ -37,6 +37,7 @@
         {
             "name": "dev.architech.protv.extras",
             "releases": [
+                "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.1-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.0-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.5-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.4-beta/downloads/package",
