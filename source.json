@@ -88,6 +88,7 @@
         {
             "name": "dev.architech.videoplayershim",
             "releases": [
+                "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.6/downloads/package",
                 "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.5/downloads/package",
                 "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.4/downloads/package",
                 "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.0/downloads/package",
