@@ -25,29 +25,20 @@
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.14.6/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.13.2/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.12/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.11/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.7/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.6/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.5/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.4/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.3/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.2/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.1/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10/downloads/package"
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.11/downloads/package"
             ]
         },
         {
             "name": "dev.architech.protv.extras",
             "releases": [
+                "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.2-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.1-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.0-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.5-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.4-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.3-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.1-beta/downloads/package",
-                "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.0-beta/downloads/package",
-                "https://gitlab.com/techanon/protv-extras/-/releases/v0.6.0-beta/downloads/package",
-                "https://gitlab.com/techanon/protv-extras/-/releases/v0.5.3-beta/downloads/package"
+                "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.0-beta/downloads/package"
             ]
         },
         {
