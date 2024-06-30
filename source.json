@@ -17,7 +17,7 @@
         {
             "name": "dev.architech.protv",
             "releases":[
-                "https://gitlab.com/techanon/protv/-/archive/v3.0.0-beta.19/protv-v3.0.0-beta.19.zip/protv-v3.0.0-beta.19",
+                "https://gitlab.com/techanon/protv/-/archive/v3.0.0-beta.19/protv-v3.0.0-beta.19.zip",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.18/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.17.1/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.17/downloads/package",
