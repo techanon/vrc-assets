@@ -17,7 +17,7 @@
         {
             "name": "dev.architech.protv",
             "releases":[
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.19/downloads/package",
+                "https://gitlab.com/techanon/protv/-/archive/v3.0.0-beta.19/protv-v3.0.0-beta.19.zip",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.18/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.17.1/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.17/downloads/package",
@@ -32,7 +32,7 @@
         {
             "name": "dev.architech.protv.extras",
             "releases": [
-                "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.3-beta/downloads/package",
+                "https://gitlab.com/techanon/protv-extras/-/archive/v0.8.3-beta/protv-extras-v0.8.3-beta.zip",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.2-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.1-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.0-beta/downloads/package",
@@ -63,7 +63,7 @@
         {
             "name": "dev.architech.sdk",
             "releases": [
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.16.3/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/archive/v0.16.3/architech-sdk-v0.16.3.zip",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.16.0/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.6/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.5/downloads/package",
