@@ -17,7 +17,7 @@
         {
             "name": "dev.architech.protv",
             "releases":[
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.19/ArchiTech.ProTV_v3.0.0-beta.19.zip",
+                "https://gitlab.com/techanon/architech-assets/-/raw/master/ProTV/3.x/ArchiTech.ProTV_v3.0.0-beta.19.zip?ref_type=heads&inline=false",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.18/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.17.1/downloads/package",
                 "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.17/downloads/package",
@@ -32,7 +32,7 @@
         {
             "name": "dev.architech.protv.extras",
             "releases": [
-                "https://gitlab.com/api/v4/projects/48714672/packages/generic/ArchiTech.ProTV.Extras/v0.8.3-beta/ArchiTech.ProTV.Extras_v0.8.3-beta.zip",
+                "https://gitlab.com/techanon/architech-assets/-/raw/master/ProTV/3.x/ArchiTech.ProTV.Extras_v0.8.3-beta.zip?ref_type=heads&inline=false",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.2-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.1-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.0-beta/downloads/package",
@@ -63,7 +63,7 @@
         {
             "name": "dev.architech.sdk",
             "releases": [
-                "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.16.3/ArchiTech.SDK_v0.16.3.zip",
+                "https://gitlab.com/techanon/architech-assets/-/raw/master/ProTV/3.x/ArchiTech.SDK_v0.16.3.zip?ref_type=heads&inline=false",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.16.0/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.6/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.5/downloads/package",
