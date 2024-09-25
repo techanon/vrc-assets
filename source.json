@@ -17,7 +17,7 @@
         {
             "name": "dev.architech.protv",
             "releases":[
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.21/ArchiTech.ProTV_v3.0.0-beta.21.zip",
+                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.21/ArchiTech.ProTV_v3.0.0-beta.21.1.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20.3/ArchiTech.ProTV_v3.0.0-beta.20.3.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20.2/ArchiTech.ProTV_v3.0.0-beta.20.2.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20/ArchiTech.ProTV_v3.0.0-beta.20.zip",
@@ -88,6 +88,7 @@
         {
             "name": "dev.architech.videoplayershim",
             "releases": [
+                "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.8/downloads/package/ArchiTech.VideoPlayerShim_v1.3.8.zip",
                 "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.7/downloads/package/ArchiTech.VideoPlayerShim_v1.3.7.zip",
                 "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.6/downloads/package",
                 "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.5/downloads/package",
