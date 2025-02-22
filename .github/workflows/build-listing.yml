@@ -34,7 +34,8 @@ jobs:
       - uses: actions/checkout@v4 # check out this repo
       - uses: actions/checkout@v4 # check out automation repo
         with:
-          repository: vrchat-community/package-list-action
+          repository: LauraRozier/package-list-action
+          ref: Fix_Version_Sorting
           path: ${{env.pathToCi}}
           clean: false # otherwise the local repo will no longer be checked out
           
