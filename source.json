@@ -17,28 +17,21 @@
         {
             "name": "dev.architech.protv",
             "releases":[
+                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.24/ArchiTech.ProTV_v3.0.0-beta.24.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.23.1/ArchiTech.ProTV_v3.0.0-beta.23.1.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.23/ArchiTech.ProTV_v3.0.0-beta.23.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.22/ArchiTech.ProTV_v3.0.0-beta.22.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.21.1/ArchiTech.ProTV_v3.0.0-beta.21.1.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20.3/ArchiTech.ProTV_v3.0.0-beta.20.3.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20.2/ArchiTech.ProTV_v3.0.0-beta.20.2.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20/ArchiTech.ProTV_v3.0.0-beta.20.zip",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.18/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.17.1/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.17/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.16/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.15/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.14.6/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.13.2/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.12/downloads/package",
-                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.11/downloads/package"
+                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20/ArchiTech.ProTV_v3.0.0-beta.20.zip"
             ]
         },
         {
             "name": "dev.architech.protv.extras",
             "releases": [
-                "https://gitlab.com/techanon/architech-assets/-/raw/master/ProTV/3.x/ArchiTech.ProTV.Extras_v0.8.3-beta.zip?ref_type=heads&inline=false",
+                "https://gitlab.com/techanon/protv-extras/-/releases/v0.9.0-beta/downloads/package/ArchiTech.ProTV.Extras_v0.9.0-beta.zip",
+                "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.3-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.2-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.1-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.0-beta/downloads/package",
@@ -57,21 +50,13 @@
                 "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.8.1/downloads/package/ArchiTech.Umbrella_v0.8.1.zip",
                 "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.8.0/downloads/package",
                 "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.7.1/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.6.0/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.5.3/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.5.2/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.5.1/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.5.0/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.4.6/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.4.5/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.4.4/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.4.3/downloads/package",
-                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.4.2/downloads/package"
+                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.6.0/downloads/package"
             ]
         },
         {
             "name": "dev.architech.sdk",
             "releases": [
+                "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.19.0/ArchiTech.SDK_v0.19.0.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.18.1/ArchiTech.SDK_v0.18.1.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.18.0/ArchiTech.SDK_v0.18.0.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.17.1/ArchiTech.SDK_v0.17.1.zip",
@@ -86,11 +71,6 @@
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.14.1/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.14.0/downloads/package",
                 "https://gitlab.com/techanon/architech-sdk/-/releases/v0.13.0/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.12.0/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.11.0/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.10.2/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.10.1/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.10.0/downloads/package"
             ]
         },
         {
