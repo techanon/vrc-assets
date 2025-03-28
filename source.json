@@ -30,7 +30,7 @@
         {
             "name": "dev.architech.protv.extras",
             "releases": [
-                "https://gitlab.com/techanon/protv-extras/-/releases/v0.9.2-beta/downloads/package/ArchiTech.ProTV.Extras_v0.9.2-beta.zip",
+                "https://gitlab.com/techanon/protv-extras/-/releases/v0.9.3-beta/downloads/package/ArchiTech.ProTV.Extras_v0.9.3-beta.zip",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.3-beta/downloads/package",
                 "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.5-beta/downloads/package",
             ]
