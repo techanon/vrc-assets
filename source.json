@@ -52,21 +52,12 @@
         {
             "name": "dev.architech.sdk",
             "releases": [
+                "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.20.0/ArchiTech.SDK_v0.20.0.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.19.0/ArchiTech.SDK_v0.19.0.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.18.1/ArchiTech.SDK_v0.18.1.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.18.0/ArchiTech.SDK_v0.18.0.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.17.1/ArchiTech.SDK_v0.17.1.zip",
-                "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.16.4/ArchiTech.SDK_v0.16.4.zip",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.16.0/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.6/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.5/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.3/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.2/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.1/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.0/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.14.1/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.14.0/downloads/package",
-                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.13.0/downloads/package",
+                "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.16.4/ArchiTech.SDK_v0.16.4.zip"
             ]
         },
         {
