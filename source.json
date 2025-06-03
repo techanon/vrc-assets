@@ -17,6 +17,7 @@
         {
             "name": "dev.architech.protv",
             "releases":[
+                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.27/ArchiTech.ProTV_v3.0.0-beta.27.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.26.1/ArchiTech.ProTV_v3.0.0-beta.26.1.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.25.1/ArchiTech.ProTV_v3.0.0-beta.25.1.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.25/ArchiTech.ProTV_v3.0.0-beta.25.zip",
