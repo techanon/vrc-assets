@@ -13,7 +13,7 @@
         "text": "Go to Repositories"
     },
     "bannerUrl": "",
-    "packages": [
+    "packages": [ 
         {
             "name": "dev.architech.protv",
             "releases":[
