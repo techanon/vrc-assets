@@ -17,20 +17,12 @@
         {
             "name": "dev.architech.protv",
             "releases":[
+                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.30/ArchiTech.ProTV_v3.0.0-beta.30.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.29.4/ArchiTech.ProTV_v3.0.0-beta.29.4.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.27/ArchiTech.ProTV_v3.0.0-beta.27.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.26.1/ArchiTech.ProTV_v3.0.0-beta.26.1.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.25.1/ArchiTech.ProTV_v3.0.0-beta.25.1.zip",
                 "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.25/ArchiTech.ProTV_v3.0.0-beta.25.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.24.2/ArchiTech.ProTV_v3.0.0-beta.24.2.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.24.1/ArchiTech.ProTV_v3.0.0-beta.24.1.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.23.1/ArchiTech.ProTV_v3.0.0-beta.23.1.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.23/ArchiTech.ProTV_v3.0.0-beta.23.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.22/ArchiTech.ProTV_v3.0.0-beta.22.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.21.1/ArchiTech.ProTV_v3.0.0-beta.21.1.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20.3/ArchiTech.ProTV_v3.0.0-beta.20.3.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20.2/ArchiTech.ProTV_v3.0.0-beta.20.2.zip",
-                "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.20/ArchiTech.ProTV_v3.0.0-beta.20.zip"
             ]
         },
         {
@@ -56,6 +48,7 @@
         {
             "name": "dev.architech.sdk",
             "releases": [
+                "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.23.0/ArchiTech.SDK_v0.23.0.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.22.0/ArchiTech.SDK_v0.22.0.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.21.3/ArchiTech.SDK_v0.21.3.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.21.2/ArchiTech.SDK_v0.21.2.zip",
@@ -71,6 +64,7 @@
         {
             "name": "dev.architech.videoplayershim",
             "releases": [
+                "https://gitlab.com/techanon/videoplayershim/-/releases/v1.5.0/downloads/package/ArchiTech.VideoPlayerShim_v1.6.0.zip",
                 "https://gitlab.com/techanon/videoplayershim/-/releases/v1.5.0/downloads/package/ArchiTech.VideoPlayerShim_v1.5.0.zip",
                 "https://gitlab.com/techanon/videoplayershim/-/releases/v1.4.0/downloads/package/ArchiTech.VideoPlayerShim_v1.4.0.zip"
             ]
