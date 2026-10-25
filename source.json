@@ -49,7 +49,7 @@
         {
             "name": "dev.architech.sdk",
             "releases": [
-                "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.23.0/ArchiTech.SDK_v0.23.0.zip",
+                "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.23.1/ArchiTech.SDK_v0.23.1.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.22.0/ArchiTech.SDK_v0.22.0.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.21.3/ArchiTech.SDK_v0.21.3.zip",
                 "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.21.2/ArchiTech.SDK_v0.21.2.zip",
